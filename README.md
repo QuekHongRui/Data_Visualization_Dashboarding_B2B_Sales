@@ -4,4 +4,6 @@
 
 Source Data: https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=Sales
 
+![B2B Sales Dashboard](https://github.com/user-attachments/assets/d620364b-e410-4e9c-8294-eee6d57ef8b3)
+
 *To be updated ...*
